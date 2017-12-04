@@ -1,0 +1,58 @@
+body {
+	font-size: 18px/1em;
+  padding: 20px;
+}
+h1, h2 {
+  text-align: center;
+}
+.imageRequirements {
+  margin: 0 auto .5em auto;
+  width: 500px;
+}
+input {
+  width: 100%;
+}
+.error {
+	color: red;
+}
+.hide {
+	display: none;
+}
+.finalImageDisplay {
+	text-align: center;
+}
+.divButton {
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+
+  	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d8e0de+0,aebfbc+22,99afab+33,8ea6a2+50,829d98+67,4e5c5a+82,0e0e0e+100;Grey+3D */
+  	background: #d8e0de; /* Old browsers */
+  	background: -moz-linear-gradient(top, #d8e0de 0%, #aebfbc 22%, #99afab 33%, #8ea6a2 50%, #829d98 67%, #4e5c5a 82%, #0e0e0e 100%); /* FF3.6-15 */
+  	background: -webkit-linear-gradient(top, #d8e0de 0%,#aebfbc 22%,#99afab 33%,#8ea6a2 50%,#829d98 67%,#4e5c5a 82%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
+  	background: linear-gradient(to bottom, #d8e0de 0%,#aebfbc 22%,#99afab 33%,#8ea6a2 50%,#829d98 67%,#4e5c5a 82%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', endColorstr='#0e0e0e',GradientType=0 ); /* IE6-9 */
+
+    border-radius: 0.2em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(145, 145, 145);
+    border-image: initial;
+    padding: 0.5em 1em;
+    text-decoration: none !important;
+    width: 100%;
+
+    opacity: 1;
+    transition: opacity .25s;
+}
+.divButton:hover {
+    cursor: pointer;
+    opacity: .8;
+}
+
+.divButtonDisplay {
+  margin: 2em 0;
+  text-align: center;
+}
+.formClass {
+	margin: 1em 0;
+}
