@@ -137,6 +137,11 @@
 	<cfelse>
 		<!--- DO NOTHING --->
 	</cfif>
+	
+	
+	<!--- INTERESTING NOTES --->
+	<!--- https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/creating-and-manipulating-coldfusion-images/manipulating-coldfusion-images.html --->
+	<!--- https://www.raymondcamden.com/2009/09/04/Increasing-the-canvas-size-of-an-image/ --->
 
 </body>
 
